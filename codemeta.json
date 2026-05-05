@@ -1,0 +1,48 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "applicationCategory": "SoftwareSourceCode",
+    "author": [
+        {
+            "name": "British Library",
+            "@id": "https://github.com/britishlibrary",
+            "@type": "Organization"
+        }
+    ],
+    "codeRepository": "https://github.com/britishlibrary/peripleo",
+    "contributor": [
+        {
+            "familyName": "Gadd",
+            "givenName": "Stephen",
+            "@id": "https://github.com/docuracy",
+            "@type": "Person"
+        },
+        {
+            "familyName": "Simon",
+            "givenName": "Rainer",
+            "@id": "https://github.com/rsimon",
+            "@type": "Person"
+        },
+        {
+            "familyName": "Rees",
+            "givenName": "Gethin",
+            "@id": "https://github.com/thegsi",
+            "@type": "Person"
+        }
+    ],
+    "dateCreated": "2022-04-23",
+    "dateModified": "2026-01-02",
+    "description": "Example configuration of Peripleo geodata mapping software, developed for the BL's \"Locating a National Collection\" project - fork this!",
+    "downloadUrl": "https://github.com/britishlibrary/peripleo/releases",
+    "identifier": "peripleo",
+    "keywords": [
+        "visualisation",
+        "collection",
+        "british library",
+        "mapping",
+        "ahrc"
+    ],
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "Peripleo",
+    "issueTracker": "https://github.com/britishlibrary/peripleo/issues",
+    "@type": "SoftwareSourceCode"
+}
